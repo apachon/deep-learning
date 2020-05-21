@@ -1,2 +1,2 @@
 # deep-learning
-Deep Learning
+Mix Deep Learning
